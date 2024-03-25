@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.email "michaelhillcox@gmail.com"
           git config --global user.name "Michael Hillcox"
+          git add .
           git commit -a -m "Update things"
       - name: Push updates
         uses: ad-m/github-push-action@master
