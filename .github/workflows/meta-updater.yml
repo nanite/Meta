@@ -30,8 +30,6 @@ jobs:
         run: |
           git config --global user.email "michaelhillcox@gmail.com"
           git config --global user.name "Michael Hillcox"
-          git add .
           git status
-          ls -la
-          git diff --quiet --exit-code || git commit -m "Update things"
+          git commit -a -m "Update things" || exit 0
           git push origin main
