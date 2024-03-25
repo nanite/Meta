@@ -30,6 +30,8 @@ jobs:
         run: |
           git config --global user.email "michaelhillcox@gmail.com"
           git config --global user.name "Michael Hillcox"
-          git status
-          git commit -a -m "Update things" || exit 0
-          git push origin main
+          git commit -a -m "Update things"
+      - name: Push updates
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
