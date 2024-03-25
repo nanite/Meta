@@ -30,4 +30,6 @@ jobs:
       # Check if there are any changes to commit
       - run: git diff --quiet --exit-code || git commit -m "Update things"
       - run: git remote set-url origin "https://michaelhillcox:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}"
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - run: git push
