@@ -34,4 +34,4 @@ jobs:
           git status
           ls -la
           git diff --quiet --exit-code || git commit -m "Update things"
-          git push
+          git push origin main
