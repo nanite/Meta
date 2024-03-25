@@ -1,6 +1,130 @@
 {
   "finalSpecData": [
     {
+      "name": "ToolKit",
+      "repo": "https://github.com/nanite/ToolKit",
+      "spec": 2,
+      "maven": [
+        {
+          "name": "Common",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/ToolKit-common"
+        },
+        {
+          "name": "Forge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/ToolKit-forge"
+        },
+        {
+          "name": "Fabric",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/ToolKit-fabric"
+        },
+        {
+          "name": "NeoForge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/ToolKit-neoforge"
+        }
+      ],
+      "providers": [
+        {
+          "type": "identity",
+          "name": "Modrinth",
+          "id": "fWj0tJp5",
+          "slug": "tool-kit",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "identity",
+          "name": "CurseForge",
+          "id": "324888",
+          "slug": "tool-kit",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "url",
+          "name": "GitHub",
+          "url": "https://github.com/nanite/ToolKit",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge",
+            "common"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sunekaer",
+          "role": "Owner"
+        },
+        {
+          "name": "ErrorMikey",
+          "role": "Contributor"
+        }
+      ],
+      "curseforge": {
+        "title": "Tool Kit",
+        "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
+        "image": "https://media.forgecdn.net/avatars/207/480/636966715431003559.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.16.5",
+          "1.15.2",
+          "1.15.1",
+          "1.15",
+          "1.14.4",
+          "1.14.3",
+          "1.14.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/tool-kit",
+        "updatedAt": "2024-03-02T02:01:19.943Z",
+        "downloads": 6410447
+      },
+      "modrinth": {
+        "title": "Tool Kit",
+        "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
+        "image": "https://cdn.modrinth.com/data/fWj0tJp5/5a9c342e6add3ba84a9d99c8d57a4f3882c34d73.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.16.5",
+          "1.15.2",
+          "1.15.1",
+          "1.15",
+          "1.14.4",
+          "1.14.3",
+          "1.14.2"
+        ],
+        "webUrl": "https://modrinth.com/mod/tool-kit",
+        "updatedAt": "2024-03-02T01:49:24.541377Z",
+        "downloads": 5989
+      }
+    },
+    {
       "name": "Simple-Discord-Rich-Presence",
       "repo": "https://github.com/nanite/Simple-Discord-Rich-Presence",
       "spec": 2,
@@ -128,6 +252,342 @@
         "webUrl": "https://modrinth.com/mod/srdp",
         "updatedAt": "2023-12-17T23:39:05.979005Z",
         "downloads": 144107
+      }
+    },
+    {
+      "name": "Flat-Bedrock",
+      "repo": "https://github.com/nanite/Flat-Bedrock",
+      "spec": 2,
+      "maven": [
+        {
+          "name": "Common",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/flatbedrock-common"
+        },
+        {
+          "name": "Forge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/flatbedrock-forge"
+        },
+        {
+          "name": "Fabric",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/flatbedrock-fabric"
+        },
+        {
+          "name": "NeoForge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/flatbedrock-neoforge"
+        }
+      ],
+      "providers": [
+        {
+          "type": "identity",
+          "name": "Modrinth",
+          "id": "ZYLnkiVu",
+          "slug": "flat-bedrock",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "identity",
+          "name": "CurseForge",
+          "id": "398623",
+          "slug": "flat-bedrock",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "url",
+          "name": "GitHub",
+          "url": "https://github.com/nanite/Flat-Bedrock",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge",
+            "common"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sunekaer",
+          "role": "Owner"
+        },
+        {
+          "name": "ErrorMikey",
+          "role": "Contributor"
+        },
+        {
+          "name": "LatvianModder",
+          "role": "Contributor"
+        }
+      ],
+      "curseforge": {
+        "title": "Flat Bedrock (Forge / Fabric)",
+        "description": "Make the world have flat bedrock",
+        "image": "https://media.forgecdn.net/avatars/289/530/637315543693497907.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.1",
+          "1.20",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.17.1",
+          "1.16.5",
+          "1.16.4",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1",
+          "1.15.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/flat-bedrock",
+        "updatedAt": "2024-01-07T17:18:59.863Z",
+        "downloads": 8529563
+      },
+      "modrinth": {
+        "title": "Flat Bedrock",
+        "description": "Make the world have flat bedrock",
+        "image": "https://cdn.modrinth.com/data/ZYLnkiVu/52423dbbf7c9ebdb232d353bbdc47a00a1c488ad.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.1",
+          "1.20",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.17.1",
+          "1.16.5",
+          "1.16.4",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1",
+          "1.15.2"
+        ],
+        "webUrl": "https://modrinth.com/mod/flat-bedrock",
+        "updatedAt": "2024-01-07T17:10:14.503656Z",
+        "downloads": 7201
+      }
+    },
+    {
+      "name": "Mute",
+      "repo": "https://github.com/nanite/Mute",
+      "spec": 2,
+      "maven": [
+        {
+          "name": "Common",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/mute-common"
+        },
+        {
+          "name": "Forge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/mute-forge"
+        },
+        {
+          "name": "Fabric",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/mute-fabric"
+        },
+        {
+          "name": "NeoForge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/mute-neoforge"
+        }
+      ],
+      "providers": [
+        {
+          "type": "identity",
+          "name": "Modrinth",
+          "id": "DqmgBVPB",
+          "slug": "mute-mod",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "identity",
+          "name": "CurseForge",
+          "id": "625183",
+          "slug": "mute",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "url",
+          "name": "GitHub",
+          "url": "https://github.com/nanite/Mute",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge",
+            "common"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sunekaer",
+          "role": "Owner"
+        }
+      ],
+      "curseforge": {
+        "title": "Mute",
+        "description": "Mutes sounds from playing in game based on config.",
+        "image": "https://media.forgecdn.net/avatars/549/506/637886802396239538.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/mute",
+        "updatedAt": "2024-01-07T13:50:17.793Z",
+        "downloads": 1841271
+      },
+      "modrinth": {
+        "title": "Mute",
+        "description": "Mutes sounds from playing in game based on config",
+        "image": "https://cdn.modrinth.com/data/DqmgBVPB/be8eb89c8022485b9d27fe0f5d760e9346eb58f1.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2"
+        ],
+        "webUrl": "https://modrinth.com/mod/mute-mod",
+        "updatedAt": "2024-01-07T13:44:37.509471Z",
+        "downloads": 617
+      }
+    },
+    {
+      "name": "Yeetus-Experimentus",
+      "repo": "https://github.com/nanite/Yeetus-Experimentus",
+      "spec": 2,
+      "maven": [
+        {
+          "name": "Common",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/YeetusExperimentus-common"
+        },
+        {
+          "name": "Forge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/YeetusExperimentus-forge"
+        },
+        {
+          "name": "Fabric",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/YeetusExperimentus-fabric"
+        },
+        {
+          "name": "NeoForge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/YeetusExperimentus-neoforge"
+        }
+      ],
+      "providers": [
+        {
+          "type": "identity",
+          "name": "Modrinth",
+          "id": "HaaH232J",
+          "slug": "yeetus-experimentus",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "identity",
+          "name": "CurseForge",
+          "id": "635427",
+          "slug": "yeetusexperimentus",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "url",
+          "name": "GitHub",
+          "url": "https://github.com/nanite/Yeetus-Experimentus",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge",
+            "common"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sunekaer",
+          "role": "Owner"
+        },
+        {
+          "name": "Gaz492",
+          "role": "Mascot"
+        }
+      ],
+      "curseforge": {
+        "title": "Yeetus Experimentus",
+        "description": "Yeetus Experimental Settings",
+        "image": "https://media.forgecdn.net/avatars/561/302/637913385213961485.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
+        "updatedAt": "2024-02-06T08:58:06.813Z",
+        "downloads": 14147050
+      },
+      "modrinth": {
+        "title": "Yeetus Experimentus",
+        "description": "Disable's the Experimental Settings popup, which appears when you create or load world.",
+        "image": "https://cdn.modrinth.com/data/HaaH232J/b2778c6e48b7531f8040281d6d37c788e5197b3d.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2"
+        ],
+        "webUrl": "https://modrinth.com/mod/yeetus-experimentus",
+        "updatedAt": "2024-02-06T08:53:43.220902Z",
+        "downloads": 153583
       }
     }
   ]
