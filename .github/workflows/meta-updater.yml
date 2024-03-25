@@ -21,7 +21,7 @@ jobs:
       - run: bun run src/index.ts
         name: Update things
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
       # Commit any changes back to the project
       - run: git config --global user.email "michaelhillcox@gmail.com"
