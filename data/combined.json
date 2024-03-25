@@ -255,6 +255,118 @@
       }
     },
     {
+      "name": "Structure-Expansion",
+      "repo": "https://github.com/nanite/Structure-Expansion",
+      "spec": 2,
+      "maven": [
+        {
+          "name": "Common",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/structure-expansion-common"
+        },
+        {
+          "name": "Forge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/structure-expansion-forge"
+        },
+        {
+          "name": "Fabric",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/structure-expansion-fabric"
+        },
+        {
+          "name": "NeoForge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/structure-expansion-neoforge"
+        }
+      ],
+      "providers": [
+        {
+          "type": "identity",
+          "name": "Modrinth",
+          "id": "IKJL3zrR",
+          "slug": "structure-expansion",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "identity",
+          "name": "CurseForge",
+          "id": "398430",
+          "slug": "structure-expansion",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "url",
+          "name": "GitHub",
+          "url": "https://github.com/nanite/structure-expansion",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge",
+            "common"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sunekaer",
+          "role": "Owner"
+        }
+      ],
+      "curseforge": {
+        "title": "Structure Expansion",
+        "description": "Small mod that Increases the size limit of structure blocks and fill command",
+        "image": "https://media.forgecdn.net/avatars/289/322/637314740793415386.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.16.5",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/structure-expansion",
+        "updatedAt": "2024-01-07T16:03:09.177Z",
+        "downloads": 3104931
+      },
+      "modrinth": {
+        "title": "Structure Expansion",
+        "description": "Small mod that Increases the size limit of structure blocks and fill command",
+        "image": "https://cdn.modrinth.com/data/IKJL3zrR/6c91b4e49ac7cbc8b8dca223212b0e2b021b9575.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.16.5",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1"
+        ],
+        "webUrl": "https://modrinth.com/mod/structure-expansion",
+        "updatedAt": "2024-01-07T15:58:44.551023Z",
+        "downloads": 5873
+      }
+    },
+    {
       "name": "Flat-Bedrock",
       "repo": "https://github.com/nanite/Flat-Bedrock",
       "spec": 2,
