@@ -46,11 +46,7 @@ for (const member of naniteMembersReq.data) {
 for (const repo of repos) {
     const repoName = repo.name;
     console.log(`Checking repo: ${repoName}`);
-
-    if (repoName !== "Simple-Discord-Rich-Presence") {
-        continue;
-    }
-
+    
     try {
         const metaFile = await octokit.repos.getContent({
             owner: "nanite",
