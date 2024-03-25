@@ -1,0 +1,134 @@
+{
+  "finalSpecData": [
+    {
+      "name": "Simple-Discord-Rich-Presence",
+      "repo": "https://github.com/nanite/Simple-Discord-Rich-Presence",
+      "spec": 2,
+      "maven": [
+        {
+          "name": "Common",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/SimpleDiscordRichPresence-common"
+        },
+        {
+          "name": "Forge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/SimpleDiscordRichPresence-forge"
+        },
+        {
+          "name": "Fabric",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/SimpleDiscordRichPresence-fabric"
+        },
+        {
+          "name": "NeoForge",
+          "url": "https://maven.nanite.dev/releases/com/sunekaer/mods/SimpleDiscordRichPresence-neoforge"
+        }
+      ],
+      "providers": [
+        {
+          "type": "identity",
+          "name": "Modrinth",
+          "id": "SCAopByd",
+          "slug": "srdp",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "identity",
+          "name": "CurseForge",
+          "id": "334853",
+          "slug": "simple-discord-rich-presence",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge"
+          ]
+        },
+        {
+          "type": "url",
+          "name": "GitHub",
+          "url": "https://github.com/nanite/simple-discord-rich-presence",
+          "variants": [
+            "forge",
+            "fabric",
+            "neoforge",
+            "common"
+          ]
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sunekaer",
+          "role": "Owner"
+        },
+        {
+          "name": "ErrorMikey",
+          "role": "Contributor"
+        }
+      ],
+      "curseforge": {
+        "title": "Simple Discord Rich Presence (Forge /  Fabric)",
+        "description": "Simple Discord Rich Presence ",
+        "image": "https://media.forgecdn.net/avatars/218/240/637010626881189622.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.16.5",
+          "1.16.4",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1",
+          "1.15.2",
+          "1.15.1",
+          "1.15",
+          "1.14.4"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
+        "updatedAt": "2023-12-18T07:54:07.663Z",
+        "downloads": 25477743
+      },
+      "modrinth": {
+        "title": "Simple Rich Discord Presence",
+        "description": "Simple Discord Rich Presence",
+        "image": "https://cdn.modrinth.com/data/SCAopByd/d5671b54a1dd786976dfcdee16484b66b6f253e6.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.16.5",
+          "1.16.4",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1",
+          "1.15.2",
+          "1.15.1",
+          "1.15",
+          "1.14.4"
+        ],
+        "webUrl": "https://modrinth.com/mod/srdp",
+        "updatedAt": "2023-12-17T23:39:05.979005Z",
+        "downloads": 144107
+      }
+    }
+  ]
+}
