@@ -24,12 +24,14 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
       # Commit any changes back to the project
-      - run: git config --global user.email "michaelhillcox@gmail.com"
-      - run: git config --global user.name "Michael Hillcox"
-      - run: git add .
-      # Check if there are any changes to commit
-      - run: git diff --quiet --exit-code || git commit -m "Update things"
-      - run: git remote set-url origin "https://michaelhillcox:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}"
+      - name: Commit changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - run: git push
+        run: |
+          git config --global user.email "michaelhillcox@gmail.com"
+          git config --global user.name "Michael Hillcox"
+          git add .
+          git status
+          ls -la
+          git diff --quiet --exit-code || git commit -m "Update things"
+          git push
