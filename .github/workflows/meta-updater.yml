@@ -1,0 +1,31 @@
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  # Allow manual running as well
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+      - run: bun install
+        name: Install dependencies
+      - run: bun run index.ts
+        name: Update things
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+      # Commit any changes back to the project
+      - run: git config --global user.email "michaelhillcox@gmail.com"
+      - run: git config --global user.name "Michael Hillcox"
+      - run: git add .
+      # Check if there are any changes to commit
+      - run: git diff --quiet --exit-code || git commit -m "Update things"
+      - run: git push
+        name: Push changes
