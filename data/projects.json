@@ -67,7 +67,34 @@
           "role": "Contributor"
         }
       ],
-      "curseforge": null,
+      "curseforge": {
+        "title": "Tool Kit",
+        "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
+        "image": "https://media.forgecdn.net/avatars/207/480/636966715431003559.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.16.5",
+          "1.15.2",
+          "1.15.1",
+          "1.15",
+          "1.14.4",
+          "1.14.3",
+          "1.14.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/tool-kit",
+        "updatedAt": "2024-03-02T02:01:19.943Z",
+        "downloads": 6479649
+      },
       "modrinth": {
         "title": "Tool Kit",
         "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
@@ -94,7 +121,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/tool-kit",
         "updatedAt": "2024-03-02T01:49:24.541377Z",
-        "downloads": 6185
+        "downloads": 6201
       }
     },
     {
@@ -164,7 +191,37 @@
           "role": "Contributor"
         }
       ],
-      "curseforge": null,
+      "curseforge": {
+        "title": "Simple Discord Rich Presence (Forge /  Fabric)",
+        "description": "Simple Discord Rich Presence ",
+        "image": "https://media.forgecdn.net/avatars/218/240/637010626881189622.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.16.5",
+          "1.16.4",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1",
+          "1.15.2",
+          "1.15.1",
+          "1.15",
+          "1.14.4"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
+        "updatedAt": "2023-12-18T07:54:07.663Z",
+        "downloads": 25773442
+      },
       "modrinth": {
         "title": "Simple Rich Discord Presence",
         "description": "Simple Discord Rich Presence",
@@ -194,7 +251,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/srdp",
         "updatedAt": "2023-12-17T23:39:05.979005Z",
-        "downloads": 155690
+        "downloads": 157118
       }
     },
     {
@@ -282,7 +339,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/structure-expansion",
         "updatedAt": "2024-01-07T16:03:09.177Z",
-        "downloads": 3125562
+        "downloads": 3127847
       },
       "modrinth": {
         "title": "Structure Expansion",
@@ -306,7 +363,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/structure-expansion",
         "updatedAt": "2024-01-07T15:58:44.551023Z",
-        "downloads": 6045
+        "downloads": 6060
       }
     },
     {
@@ -380,7 +437,32 @@
           "role": "Contributor"
         }
       ],
-      "curseforge": null,
+      "curseforge": {
+        "title": "Flat Bedrock (Forge / Fabric)",
+        "description": "Make the world have flat bedrock",
+        "image": "https://media.forgecdn.net/avatars/289/530/637315543693497907.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.1",
+          "1.20",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2",
+          "1.18.1",
+          "1.18",
+          "1.17.1",
+          "1.16.5",
+          "1.16.4",
+          "1.16.3",
+          "1.16.2",
+          "1.16.1",
+          "1.15.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/flat-bedrock",
+        "updatedAt": "2024-01-07T17:18:59.863Z",
+        "downloads": 8558216
+      },
       "modrinth": {
         "title": "Flat Bedrock",
         "description": "Make the world have flat bedrock",
@@ -405,7 +487,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/flat-bedrock",
         "updatedAt": "2024-01-07T17:10:14.503656Z",
-        "downloads": 7503
+        "downloads": 7530
       }
     },
     {
@@ -489,7 +571,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/mute",
         "updatedAt": "2024-01-07T13:50:17.793Z",
-        "downloads": 1858651
+        "downloads": 1860590
       },
       "modrinth": {
         "title": "Mute",
@@ -509,7 +591,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/mute-mod",
         "updatedAt": "2024-01-07T13:44:37.509471Z",
-        "downloads": 675
+        "downloads": 679
       }
     },
     {
@@ -579,7 +661,26 @@
           "role": "Mascot"
         }
       ],
-      "curseforge": null,
+      "curseforge": {
+        "title": "Yeetus Experimentus",
+        "description": "Yeetus Experimental Settings",
+        "image": "https://media.forgecdn.net/avatars/561/302/637913385213961485.png",
+        "minecraftVersions": [
+          "1.20.4",
+          "1.20.2",
+          "1.20.1",
+          "1.20",
+          "1.19.4",
+          "1.19.3",
+          "1.19.2",
+          "1.19.1",
+          "1.19",
+          "1.18.2"
+        ],
+        "webUrl": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
+        "updatedAt": "2024-02-06T08:58:06.813Z",
+        "downloads": 14683779
+      },
       "modrinth": {
         "title": "Yeetus Experimentus",
         "description": "Disable's the Experimental Settings popup, which appears when you create or load world.",
@@ -598,7 +699,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/yeetus-experimentus",
         "updatedAt": "2024-02-06T08:53:43.220902Z",
-        "downloads": 168337
+        "downloads": 170155
       }
     }
   ]
