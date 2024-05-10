@@ -72,6 +72,8 @@
         "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
         "image": "https://media.forgecdn.net/avatars/207/480/636966715431003559.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.2",
           "1.20.1",
@@ -92,14 +94,16 @@
           "1.14.2"
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/tool-kit",
-        "updatedAt": "2024-03-02T02:01:19.943Z",
-        "downloads": 6682669
+        "updatedAt": "2024-05-09T14:50:04.503Z",
+        "downloads": 6686148
       },
       "modrinth": {
         "title": "Tool Kit",
         "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
         "image": "https://cdn.modrinth.com/data/fWj0tJp5/5a9c342e6add3ba84a9d99c8d57a4f3882c34d73.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.2",
           "1.20.1",
@@ -120,8 +124,8 @@
           "1.14.2"
         ],
         "webUrl": "https://modrinth.com/mod/tool-kit",
-        "updatedAt": "2024-03-02T01:49:24.541377Z",
-        "downloads": 7063
+        "updatedAt": "2024-05-09T14:48:13.604480Z",
+        "downloads": 7101
       }
     },
     {
@@ -196,6 +200,8 @@
         "description": "Simple Discord Rich Presence ",
         "image": "https://media.forgecdn.net/avatars/218/240/637010626881189622.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.2",
           "1.20.1",
@@ -219,14 +225,16 @@
           "1.14.4"
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
-        "updatedAt": "2023-12-18T07:54:07.663Z",
-        "downloads": 26843372
+        "updatedAt": "2024-05-09T21:46:06.477Z",
+        "downloads": 26868887
       },
       "modrinth": {
         "title": "Simple Rich Discord Presence",
         "description": "Simple Discord Rich Presence",
         "image": "https://cdn.modrinth.com/data/SCAopByd/d5671b54a1dd786976dfcdee16484b66b6f253e6.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.2",
           "1.20.1",
@@ -250,8 +258,8 @@
           "1.14.4"
         ],
         "webUrl": "https://modrinth.com/mod/srdp",
-        "updatedAt": "2023-12-17T23:39:05.979005Z",
-        "downloads": 214448
+        "updatedAt": "2024-05-09T21:42:57.316566Z",
+        "downloads": 215941
       }
     },
     {
@@ -339,7 +347,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/structure-expansion",
         "updatedAt": "2024-01-07T16:03:09.177Z",
-        "downloads": 3219976
+        "downloads": 3222502
       },
       "modrinth": {
         "title": "Structure Expansion",
@@ -363,7 +371,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/structure-expansion",
         "updatedAt": "2024-01-07T15:58:44.551023Z",
-        "downloads": 6919
+        "downloads": 6936
       }
     },
     {
@@ -442,6 +450,8 @@
         "description": "Make the world have flat bedrock",
         "image": "https://media.forgecdn.net/avatars/289/530/637315543693497907.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.1",
           "1.20",
@@ -460,14 +470,16 @@
           "1.15.2"
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/flat-bedrock",
-        "updatedAt": "2024-01-07T17:18:59.863Z",
-        "downloads": 8673486
+        "updatedAt": "2024-05-09T13:55:04.627Z",
+        "downloads": 8676630
       },
       "modrinth": {
         "title": "Flat Bedrock",
         "description": "Make the world have flat bedrock",
         "image": "https://cdn.modrinth.com/data/ZYLnkiVu/52423dbbf7c9ebdb232d353bbdc47a00a1c488ad.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.1",
           "1.20",
@@ -486,8 +498,8 @@
           "1.15.2"
         ],
         "webUrl": "https://modrinth.com/mod/flat-bedrock",
-        "updatedAt": "2024-01-07T17:10:14.503656Z",
-        "downloads": 8814
+        "updatedAt": "2024-05-09T13:51:05.800082Z",
+        "downloads": 8863
       }
     },
     {
@@ -558,6 +570,8 @@
         "description": "Mutes sounds from playing in game based on config.",
         "image": "https://media.forgecdn.net/avatars/549/506/637886802396239538.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.2",
           "1.20.1",
@@ -570,14 +584,16 @@
           "1.18.2"
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/mute",
-        "updatedAt": "2024-01-07T13:50:17.793Z",
-        "downloads": 1930901
+        "updatedAt": "2024-05-09T13:46:22.187Z",
+        "downloads": 1932844
       },
       "modrinth": {
         "title": "Mute",
         "description": "Mutes sounds from playing in game based on config",
         "image": "https://cdn.modrinth.com/data/DqmgBVPB/be8eb89c8022485b9d27fe0f5d760e9346eb58f1.png",
         "minecraftVersions": [
+          "1.20.6",
+          "1.20.5",
           "1.20.4",
           "1.20.2",
           "1.20.1",
@@ -590,8 +606,8 @@
           "1.18.2"
         ],
         "webUrl": "https://modrinth.com/mod/mute-mod",
-        "updatedAt": "2024-01-07T13:44:37.509471Z",
-        "downloads": 833
+        "updatedAt": "2024-05-09T13:41:09.682475Z",
+        "downloads": 842
       }
     },
     {
@@ -679,7 +695,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
         "updatedAt": "2024-02-06T08:58:06.813Z",
-        "downloads": 16652398
+        "downloads": 16705784
       },
       "modrinth": {
         "title": "Yeetus Experimentus",
@@ -699,7 +715,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/yeetus-experimentus",
         "updatedAt": "2024-02-06T08:53:43.220902Z",
-        "downloads": 284117
+        "downloads": 287680
       }
     }
   ]
