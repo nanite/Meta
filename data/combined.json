@@ -96,7 +96,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/tool-kit",
         "updatedAt": "2024-07-10T21:24:34.047Z",
-        "downloads": 7034258
+        "downloads": 7036803
       },
       "modrinth": {
         "title": "Tool Kit",
@@ -127,7 +127,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/tool-kit",
         "updatedAt": "2024-07-10T21:16:16.719769Z",
-        "downloads": 9328
+        "downloads": 9344
       }
     },
     {
@@ -229,7 +229,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
         "updatedAt": "2024-06-19T10:24:56.54Z",
-        "downloads": 29333201
+        "downloads": 29352331
       },
       "modrinth": {
         "title": "Simple Rich Discord Presence",
@@ -263,7 +263,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/srdp",
         "updatedAt": "2024-06-19T10:19:19.241452Z",
-        "downloads": 380512
+        "downloads": 381543
       }
     },
     {
@@ -352,7 +352,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/structure-expansion",
         "updatedAt": "2024-06-19T11:04:55.457Z",
-        "downloads": 3595553
+        "downloads": 3599175
       },
       "modrinth": {
         "title": "Structure Expansion",
@@ -377,7 +377,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/structure-expansion",
         "updatedAt": "2024-06-19T10:59:41.883678Z",
-        "downloads": 9062
+        "downloads": 9075
       }
     },
     {
@@ -478,7 +478,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/flat-bedrock",
         "updatedAt": "2024-06-19T09:58:24.543Z",
-        "downloads": 9005478
+        "downloads": 9007401
       },
       "modrinth": {
         "title": "Flat Bedrock",
@@ -507,7 +507,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/flat-bedrock",
         "updatedAt": "2024-06-19T09:53:04.346922Z",
-        "downloads": 13577
+        "downloads": 13608
       }
     },
     {
@@ -594,7 +594,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/mute",
         "updatedAt": "2024-06-19T09:21:55.117Z",
-        "downloads": 2059931
+        "downloads": 2060773
       },
       "modrinth": {
         "title": "Mute",
@@ -707,7 +707,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
         "updatedAt": "2024-06-19T15:06:44.303Z",
-        "downloads": 22913755
+        "downloads": 22957497
       },
       "modrinth": {
         "title": "Yeetus Experimentus",
@@ -729,7 +729,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/yeetus-experimentus",
         "updatedAt": "2024-06-19T14:51:21.788318Z",
-        "downloads": 749398
+        "downloads": 752430
       }
     }
   ],
