@@ -72,6 +72,7 @@
         "description": "Adds useful commands and improves the vanilla structure blocks - ToolKit",
         "image": "https://media.forgecdn.net/avatars/207/480/636966715431003559.png",
         "minecraftVersions": [
+          "1.21.1",
           "1.21",
           "1.20.6",
           "1.20.5",
@@ -96,7 +97,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/tool-kit",
         "updatedAt": "2024-07-10T21:24:34.047Z",
-        "downloads": 7205049
+        "downloads": 7208849
       },
       "modrinth": {
         "title": "Tool Kit",
@@ -127,7 +128,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/tool-kit",
         "updatedAt": "2024-07-10T21:16:16.719769Z",
-        "downloads": 10687
+        "downloads": 10708
       }
     },
     {
@@ -202,6 +203,7 @@
         "description": "Simple Discord Rich Presence ",
         "image": "https://media.forgecdn.net/avatars/218/240/637010626881189622.png",
         "minecraftVersions": [
+          "1.21.1",
           "1.21",
           "1.20.6",
           "1.20.5",
@@ -229,7 +231,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/simple-discord-rich-presence",
         "updatedAt": "2024-07-29T15:40:06.563Z",
-        "downloads": 30907758
+        "downloads": 30938246
       },
       "modrinth": {
         "title": "Simple Rich Discord Presence",
@@ -263,7 +265,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/srdp",
         "updatedAt": "2024-07-29T15:37:17.652338Z",
-        "downloads": 494172
+        "downloads": 496611
       }
     },
     {
@@ -334,6 +336,7 @@
         "description": "Small mod that Increases the size limit of structure blocks and fill command",
         "image": "https://media.forgecdn.net/avatars/289/322/637314740793415386.png",
         "minecraftVersions": [
+          "1.21.1",
           "1.21",
           "1.20.4",
           "1.20.1",
@@ -352,7 +355,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/structure-expansion",
         "updatedAt": "2024-06-19T11:04:55.457Z",
-        "downloads": 3931895
+        "downloads": 3939032
       },
       "modrinth": {
         "title": "Structure Expansion",
@@ -377,7 +380,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/structure-expansion",
         "updatedAt": "2024-06-19T10:59:41.883678Z",
-        "downloads": 11278
+        "downloads": 11331
       }
     },
     {
@@ -456,6 +459,7 @@
         "description": "Make the world have flat bedrock",
         "image": "https://media.forgecdn.net/avatars/289/530/637315543693497907.png",
         "minecraftVersions": [
+          "1.21.1",
           "1.21",
           "1.20.6",
           "1.20.5",
@@ -478,7 +482,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/flat-bedrock",
         "updatedAt": "2024-06-19T09:58:24.543Z",
-        "downloads": 9175508
+        "downloads": 9178879
       },
       "modrinth": {
         "title": "Flat Bedrock",
@@ -507,7 +511,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/flat-bedrock",
         "updatedAt": "2024-06-19T09:53:04.346922Z",
-        "downloads": 16851
+        "downloads": 16918
       }
     },
     {
@@ -578,6 +582,7 @@
         "description": "Mutes sounds from playing in game based on config.",
         "image": "https://media.forgecdn.net/avatars/549/506/637886802396239538.png",
         "minecraftVersions": [
+          "1.21.1",
           "1.21",
           "1.20.6",
           "1.20.5",
@@ -594,7 +599,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/mute",
         "updatedAt": "2024-06-19T09:21:55.117Z",
-        "downloads": 2129533
+        "downloads": 2131448
       },
       "modrinth": {
         "title": "Mute",
@@ -617,7 +622,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/mute-mod",
         "updatedAt": "2024-06-19T09:15:40.717227Z",
-        "downloads": 1492
+        "downloads": 1502
       }
     },
     {
@@ -692,6 +697,7 @@
         "description": "Yeetus Experimental Settings",
         "image": "https://media.forgecdn.net/avatars/561/302/637913385213961485.png",
         "minecraftVersions": [
+          "1.21.1",
           "1.21",
           "1.20.6",
           "1.20.4",
@@ -707,7 +713,7 @@
         ],
         "webUrl": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
         "updatedAt": "2024-06-19T15:06:44.303Z",
-        "downloads": 27196908
+        "downloads": 27282135
       },
       "modrinth": {
         "title": "Yeetus Experimentus",
@@ -729,7 +735,7 @@
         ],
         "webUrl": "https://modrinth.com/mod/yeetus-experimentus",
         "updatedAt": "2024-06-19T14:51:21.788318Z",
-        "downloads": 1120822
+        "downloads": 1129239
       }
     }
   ],
